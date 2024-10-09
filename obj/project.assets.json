@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisco.Esilva\\Documents\\Dados e Listas-DIO\\DadosListas\\DadosListas.csproj",
+      "projectUniqueName": "C:\\Users\\Francisco.Esilva\\Documents\\Dados e Listas-DIO\\DadosListas.csproj",
       "projectName": "DadosListas",
-      "projectPath": "C:\\Users\\Francisco.Esilva\\Documents\\Dados e Listas-DIO\\DadosListas\\DadosListas.csproj",
+      "projectPath": "C:\\Users\\Francisco.Esilva\\Documents\\Dados e Listas-DIO\\DadosListas.csproj",
       "packagesPath": "C:\\Users\\Francisco.Esilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisco.Esilva\\Documents\\Dados e Listas-DIO\\DadosListas\\obj\\",
+      "outputPath": "C:\\Users\\Francisco.Esilva\\Documents\\Dados e Listas-DIO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Francisco.Esilva\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

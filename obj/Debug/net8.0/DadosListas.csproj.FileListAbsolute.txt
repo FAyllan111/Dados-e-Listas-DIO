@@ -1,0 +1,15 @@
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\bin\Debug\net8.0\DadosListas.exe
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\bin\Debug\net8.0\DadosListas.deps.json
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\bin\Debug\net8.0\DadosListas.runtimeconfig.json
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\bin\Debug\net8.0\DadosListas.dll
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\bin\Debug\net8.0\DadosListas.pdb
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.AssemblyInfoInputs.cache
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.AssemblyInfo.cs
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.csproj.CoreCompileInputs.cache
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.sourcelink.json
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.dll
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\refint\DadosListas.dll
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.pdb
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.genruntimeconfig.cache
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\ref\DadosListas.dll
