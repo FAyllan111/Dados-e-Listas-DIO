@@ -24,19 +24,23 @@ namespace DadosListas.Models
 
         public void ListarAluno()
         {
+            Console.WriteLine($"Alunos do curso de: {Nome}");
+            
+            
+
             foreach (Pessoa aluno in Alunos)
             {
                 Console.WriteLine(aluno.NomeCompleto);
             }
         }
 
-        // todo metodo que retorna informações tem que ter o return
+        // todxo  metodo que retorna informações tem que ter o return
         public int ObterQuantidadeDeAlunosMatriculados()
         {
             int quantidade = Alunos.Count;
             return quantidade; 
             
         } 
-
+    
     }
 }
