@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DadosListas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d9cf2391a997bcdb8c923b2b19fb2cc75fec39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a06d018ebc9f044f940a858eee59f4912e6cc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DadosListas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DadosListas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

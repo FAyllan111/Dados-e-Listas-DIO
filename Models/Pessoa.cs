@@ -83,5 +83,11 @@ namespace DadosListas.Models
             Console.WriteLine($"Sou {NomeCompleto} e tenho {Idade} anos.");
         }
         
+        public void Desconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
+            //usado para quebrar as infomrações
+        }
     }
 }
