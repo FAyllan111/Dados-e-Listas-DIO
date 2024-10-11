@@ -13,3 +13,4 @@ C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\refint\D
 C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.pdb
 C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.genruntimeconfig.cache
 C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\ref\DadosListas.dll
+C:\Users\Francisco.Esilva\Documents\Dados e Listas-DIO\obj\Debug\net8.0\DadosListas.csproj.AssemblyReference.cache
