@@ -1,3 +1,4 @@
+/*
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,3 +18,17 @@ namespace DadosListas.Models
         public decimal Preco {get; set; }   
     }
 }
+
+
+Venda v1 = new Vendas(1,"Livro",29.54);
+
+// seraializando
+
+string serializado = JsonConvert.SerializeObject(v1, Formating.Indented);
+
+Console.WriteLine(serializado);
+
+
+//deserializando 
+
+*/
